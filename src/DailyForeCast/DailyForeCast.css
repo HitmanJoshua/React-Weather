@@ -1,0 +1,11 @@
+.card{
+    width:300px !important;
+    size:300px !important;
+    height:350px !important;
+    /* background-color: #ccffff !important; */
+    
+}
+.container{
+    margin-left:18% !important;
+    width: 700px;
+}
